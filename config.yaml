@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://jamesdev51.github.io/"
 title: James TIL
 paginate: 5
 theme: PaperMod
@@ -7,6 +7,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+mainsections: ["posts"]
 
 minify:
   disableXML: true
@@ -14,75 +15,59 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
+  title: James TIL
+  description: "학습한 것들을 기록하는 곳입니다."
+  keywords: [Blog, Portfolio, Development, Study, Developer, PaperMod]
+  author: James
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
-  ShowShareButtons: true
+  ShowReadingTime: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
   hidemeta: false
-  hideSummary: false
+  hideSummary: true
   showtoc: false
   tocopen: false
 
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "favicon.ico"
 
   label:
     text: "James TIL (Today I learned)"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled:  # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    enabled:  false # needs to be explicitly set
+    imageUrl: "logo.png"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+    imageTitle: James TIL logo image
 
-  # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: 매일 배운 것들을 두서없이 올립니다. 유감이지만 정리 잘 된 블로그는 아닐겁니다. 죄송~
+    Title: "James TIL"
+    Content: >
+      학습한 것들을 기록하는 곳입니다.
+
 
   socialIcons:  
-    - name: insta
-      url: "https://www.instagram.com/min___51/"
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: instagram
+      url: "https://www.instagram.com/min___51"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/minseok-jeong-james"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/JamesDev51"
 
   analytics:
     google:
@@ -115,18 +100,17 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Categories
+      url: categories
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - name: Search
+      url: search
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+    - name: Resume
+      url: resume
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

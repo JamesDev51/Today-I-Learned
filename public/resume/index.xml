@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Resumes on James TIL</title>
+    <link>http://localhost:1313/resume/</link>
+    <description>Recent content in Resumes on James TIL</description>
+    <image>
+      <title>James TIL</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.125.5</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/resume/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/resume/</guid>
+      <description>Resume Last Updated: 2024. 02. 25.
+정민석 새로운 기술의 학습을 즐기는 개발자입니다.
+신기술과 적정기술의 타협을 고뇌합니다.
+자동화를 통한 단순 반복 업무의 효율화를 좋아합니다.
+Contact / Channel ✉️Email: minseok.jeong.james@gmail.com
+🏠Blog: https://james-dev.notion.site
+🖥️Github: https://github.com/jamesdev51
+📷Insta: https://www.instagram.com/min___51
+Education 한국항공대학교 소프트웨어학과(4.27/4.5) (2018. 03. ~ 2024. 02.)
+Skill set Langauage
+1️⃣ Java
+2️⃣ Python
+3️⃣ Javascript / Node js
+Backend
+1️⃣ Spring (boot, security, jpa, batch)
+2️⃣ Express
+3️⃣ PHP
+DevOps
+✅ Cloud (AWS, kt cloud, GCP)</description>
+    </item>
+  </channel>
+</rss>
