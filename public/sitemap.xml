@@ -2,41 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/resume/</loc>
-    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/code/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/etc/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gist/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/papermod/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/resume/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/themes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EB%AA%A8%EC%9D%8C/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on James TIL</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on James TIL</description>
+    <title>Hugo on James TIL</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on James TIL</description>
     <image>
       <title>James TIL</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.125.5</generator>
     <language>en</language>
     <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>블로그 운영을 위한 팁/링크들 모음</title>
       <link>http://localhost:1313/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EB%AA%A8%EC%9D%8C/</link>
