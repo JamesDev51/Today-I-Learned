@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: "2024-02-25"
+date: "2024-05-05"
 series: ["Themes Guide"]
 ShowToc: true
 TocOpen: false
@@ -149,11 +149,13 @@ TocOpen: false
 
 **Samsung SDS - Software Engineer intern (2023. 07. - 2023. 08)**
 - **Summary**: LLM 관련 연구 과제 수행 (2023. 07. - 2023. 08.)
-  - **Description**: 비밀 유지 서약서 작성 관계로 세부 내용은 생략합니다.  
-
+  - **Description**:  RAG(Retrieval-Augmented Generation) 기반 생성형 AI 플랫폼 프로토타입 구축
+  - **What I did**:
+    RAG 기반 RESTful API 컨테이너 k8s pod로 배포하여 프로토타입 구축
+  - **Achievement**:
+    RAG 도입 시 어떤 식으로 사용될 수 있는지 시연하여 그룹원 이해도 향상
 
 **Bitlworks - DevOps, Backend Software Engineer (2022. 03. - 2023. 06.)**
-
 - **Summary**: NFT 음반 서비스 ‘[soundgram](https://soundgram.co.kr/)’ 성능 개선 (2023. 03. - 2023. 06.)
   - **Description**: 신규 음반 발매 시 발생하는 Spike traffic을 감당하기 위해 성능 테스트를 진행하고 부하를 감당할 수 있는 아키텍처로 재구축하는 프로젝트입니다.
   - **What I did**:    
