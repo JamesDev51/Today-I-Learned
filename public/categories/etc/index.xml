@@ -15,9 +15,9 @@
     <atom:link href="http://localhost:1313/categories/etc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>블로그 운영을 위한 팁/링크들 모음</title>
-      <link>http://localhost:1313/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EB%AA%A8%EC%9D%8C/</link>
+      <link>http://localhost:1313/posts/etc/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EB%AA%A8%EC%9D%8C/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EB%AA%A8%EC%9D%8C/</guid>
+      <guid>http://localhost:1313/posts/etc/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EB%AA%A8%EC%9D%8C/</guid>
       <description>Hugo 기반 블로그 운영을 위해 필요한 링크들을 모아놓은 리스트입니다. PaperMod 테마에 대한 것도 포함</description>
     </item>
   </channel>
