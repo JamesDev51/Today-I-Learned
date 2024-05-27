@@ -49,7 +49,8 @@ edit
 exec
 - `kubectl exec (파드명) -it -- /bin/bash`: 직접 파드 내부에 들어가는 명령어
 
-# kubeadm
+# k8s 업그레이드
 - `kubeadm upgrade plan`: 최신 버전 확인
 -  `yum upgrade kubeadm-(버전) -y`: kubeadm에서 upgrade를 진행하기 전에 kubeadm 자체를 해당 버전으로 업그레이드 해줘야 함
-  
+- `yum upgrade kubelet-(버전) -y`: kubelet 업그레이드
+- `kubeadm upgrade apply`: 실제 노드 업그레이드=
